@@ -163,5 +163,3 @@ if (closeModalBtn) {
         </li>
     `).join('');
 })();
-
-drawWheel();
